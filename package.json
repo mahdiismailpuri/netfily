@@ -1,0 +1,6 @@
+{
+  "name": "web-gateway-service",
+  "version": "1.0.0",
+  "description": "A simple web request forwarding service for routing traffic to backend servers",
+  "private": true
+}
